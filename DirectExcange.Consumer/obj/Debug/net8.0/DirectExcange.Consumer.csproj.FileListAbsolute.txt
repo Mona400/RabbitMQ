@@ -1,0 +1,17 @@
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\DirectExcange.Consumer.exe
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\DirectExcange.Consumer.deps.json
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\DirectExcange.Consumer.runtimeconfig.json
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\DirectExcange.Consumer.dll
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\DirectExcange.Consumer.pdb
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.csproj.AssemblyReference.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.AssemblyInfoInputs.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.AssemblyInfo.cs
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.csproj.CoreCompileInputs.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectEx.DDC302F4.Up2Date
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.dll
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\refint\DirectExcange.Consumer.dll
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.pdb
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\DirectExcange.Consumer.genruntimeconfig.cache
+D:\A_Old_Material\AA_OldLab_Top\Templetes\DirectExcange.Producer\DirectExcange.Consumer\obj\Debug\net8.0\ref\DirectExcange.Consumer.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExcange.Producer", "DirectExcange.Producer\DirectExcange.Producer.csproj", "{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExcange.Consumer", "DirectExcange.Consumer\DirectExcange.Consumer.csproj", "{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063BAFF1-3FC2-47C8-A82B-B753FBD2BE99}
+	EndGlobalSection
+EndGlobal

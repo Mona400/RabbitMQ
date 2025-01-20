@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "78li0vmldHHD8HA6bkmrKpaB92dEDIQWrrb/xo4XS3FIuNzU+PAbAB3qFDSZFdxZ2/PZSlOdGiqD557H0tujtw==",
+  "success": true,
+  "projectFilePath": "D:\\A_Old_Material\\AA_OldLab_Top\\Templetes\\DirectExcange.Producer\\DirectExcange.Consumer\\DirectExcange.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ig\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\ig\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ig\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
