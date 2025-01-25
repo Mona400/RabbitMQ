@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExcange.Producer", "DirectExcange.Producer\DirectExcange.Producer.csproj", "{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectExcange.Producer", "DirectExcange.Producer\DirectExcange.Producer.csproj", "{F567DE4A-3E94-46B7-9355-D5E9AA9F967B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExcange.Consumer", "DirectExcange.Consumer\DirectExcange.Consumer.csproj", "{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirectExcange.Consumer", "DirectExcange.Consumer\DirectExcange.Consumer.csproj", "{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicExchange.Producer", "TopicExchange.Producer\TopicExchange.Producer.csproj", "{214F8576-36B3-467B-981D-2C82DCA7D531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicExchange.Consumer", "TopicExchange.Consumer\TopicExchange.Consumer.csproj", "{27FD929C-3629-4878-BB9D-950ADE38493F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E60BB73-0DB2-4568-A01F-51DCD7CD9E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214F8576-36B3-467B-981D-2C82DCA7D531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214F8576-36B3-467B-981D-2C82DCA7D531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214F8576-36B3-467B-981D-2C82DCA7D531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214F8576-36B3-467B-981D-2C82DCA7D531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FD929C-3629-4878-BB9D-950ADE38493F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD929C-3629-4878-BB9D-950ADE38493F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD929C-3629-4878-BB9D-950ADE38493F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD929C-3629-4878-BB9D-950ADE38493F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
